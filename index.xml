@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sitename</title>
+    <link>/index.xml</link>
+    <description>Recent content on sitename</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
+    <lastBuildDate>Wed, 29 Mar 2017 13:10:05 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>home</title>
+      <link>/home/</link>
+      <pubDate>Wed, 29 Mar 2017 13:10:05 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/home/</guid>
+      <description>&lt;p&gt;This is the home file and how about some &lt;em&gt;markdown&lt;/em&gt; Not even clear how -this- works
+So if I used &lt;strong&gt;bold&lt;/strong&gt; Oh that&amp;rsquo;s cool. Appernetic allows me to edit with their editor menu &lt;em&gt;without memorizing&lt;/em&gt; the codes and i can even &lt;a href=&#34;http://www.jensenhearing.com&#34;&gt;make links&lt;/a&gt; and now am impressed, How about&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes and how this would affect the formattting?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code&gt;enter the codes here. So what&#39;s the markdown?
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Wed, 29 Mar 2017 13:06:45 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;Am writing on appernetic to try out their features as I&amp;rsquo;ve been struggling to get a site up with console/.terminal but without much success
+So this about section is about how I&amp;rsquo;m testing out appernetic for Melaka Kini News&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

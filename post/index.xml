@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MELAKA KINI</title>
+    <link>https://melakakini.github.io/post/index.xml</link>
+    <description>Recent content in Posts on MELAKA KINI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2017 MELAKA KINK is yourname.</copyright>
+    <lastBuildDate>Wed, 24 May 2017 21:37:08 +0000</lastBuildDate>
+    <atom:link href="https://melakakini.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>third post</title>
+      <link>https://melakakini.github.io/2017/05/24/third-post/</link>
+      <pubDate>Wed, 24 May 2017 21:37:08 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://melakakini.github.io/2017/05/24/third-post/</guid>
+      <description>&lt;p&gt;No wonder.&lt;/p&gt;
+
+&lt;p&gt;Without toml the site won&amp;rsquo;t publish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>third post but not</title>
+      <link>https://melakakini.github.io/2017/05/14/third-post-but-not/</link>
+      <pubDate>Sun, 14 May 2017 21:37:08 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://melakakini.github.io/2017/05/14/third-post-but-not/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;how Un creative&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After the first comes the second and then the third. But this is not good for I have got 1 and 3 but not 2 because I forgot to put it in post directory. So how do I move it?&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hope this is good investment and apprentice thrives.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://melakakini.github.io/2017/04/24/firstpost/</link>
+      <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://melakakini.github.io/2017/04/24/firstpost/</guid>
+      <description>&lt;p&gt;This is the first post and i have no clue what so ever what&amp;rsquo;s happening.
+Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen.
+#update
+Have just seen the youtube &amp;laquo;silent movie&amp;raquo; style tutorial and published it
+but nothing is seen yet. WIll come back and test in 15 mins&lt;/p&gt;
+
+&lt;p&gt;Am back and today it&amp;rsquo;s the 28th of April and am not making much progress. The settings file keeps getting deleted and the GitHub does not show the files like a Hugo site should. So it&amp;rsquo;s not hugo I remind myself. It&amp;rsquo;s appernetic :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

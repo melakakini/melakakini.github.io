@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sitename</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on sitename</description>
+    <title>Melaka Kini</title>
+    <link>https://melakakini.github.io/</link>
+    <description>Recent content on Melaka Kini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2015 yourname.</copyright>
+    <managingEditor>melakakini@hotmail.com (Jensen)</managingEditor>
+    <webMaster>melakakini@hotmail.com (Jensen)</webMaster>
+    <copyright>(c) 2017 Melaka Kini.</copyright>
     <lastBuildDate>Wed, 24 May 2017 21:23:27 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://melakakini.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>second post</title>
-      <link>http://www.example.com/second-post/</link>
+      <link>https://melakakini.github.io/second-post/</link>
       <pubDate>Wed, 24 May 2017 21:23:27 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/second-post/</guid>
+      <author>melakakini@hotmail.com (Jensen)</author>
+      <guid>https://melakakini.github.io/second-post/</guid>
       <description>Sorry i forgot about writing something here
 Its my second post and seems like it&amp;rsquo;s working How about I spend sometime working on my own product page.</description>
     </item>
     
     <item>
       <title>themes that work</title>
-      <link>http://www.example.com/2017/05/23/themes-that-work/</link>
+      <link>https://melakakini.github.io/2017/05/23/themes-that-work/</link>
       <pubDate>Tue, 23 May 2017 22:12:24 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/2017/05/23/themes-that-work/</guid>
+      <author>melakakini@hotmail.com (Jensen)</author>
+      <guid>https://melakakini.github.io/2017/05/23/themes-that-work/</guid>
       <description>Thanks to all the hardworking and creative theme makers that post to Hugo.
 ##shoutout thanks to you guys I get to have nice looking site. Thank you for your efforts I get my thoughts out.
 But why?
@@ -38,30 +38,30 @@ Why should anyone crack their heads to provide FREE themes to others? Why spend 
     
     <item>
       <title>firstpost</title>
-      <link>http://www.example.com/2017/04/24/firstpost/</link>
+      <link>https://melakakini.github.io/2017/04/24/firstpost/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/2017/04/24/firstpost/</guid>
+      <author>melakakini@hotmail.com (Jensen)</author>
+      <guid>https://melakakini.github.io/2017/04/24/firstpost/</guid>
       <description>This is the first post and i have no clue what so ever what&amp;rsquo;s happening. Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen. #update Have just seen the youtube &amp;laquo;silent movie&amp;raquo; style tutorial and published it but nothing is seen yet. WIll come back and test in 15 mins
 Am back and today it&amp;rsquo;s the 28th of April and am not making much progress.</description>
     </item>
     
     <item>
       <title>home</title>
-      <link>http://www.example.com/home/</link>
+      <link>https://melakakini.github.io/home/</link>
       <pubDate>Wed, 29 Mar 2017 13:10:05 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/home/</guid>
+      <author>melakakini@hotmail.com (Jensen)</author>
+      <guid>https://melakakini.github.io/home/</guid>
       <description>This is the home file and how about some markdown Not even clear how -this- works So if I used bold Oh that&amp;rsquo;s cool. Appernetic allows me to edit with their editor menu without memorising the codes and i can even hearing aid links and now am impressed, How about
  Blockquotes and how this would affect the formattting? This is sad. Have still nothing to show for all the time on the internet.</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://melakakini.github.io/about/</link>
       <pubDate>Wed, 29 Mar 2017 13:06:45 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/about/</guid>
+      <author>melakakini@hotmail.com (Jensen)</author>
+      <guid>https://melakakini.github.io/about/</guid>
       <description>Am writing on appernetic to try out their features as I&amp;rsquo;ve been struggling to get a site up with console/.terminal but without much success So this about section is about how I&amp;rsquo;m testing out appernetic for Melaka Kini News
 This is me again writing in MD.  This is so cool. Appernetic replied to my messages on gitter. Shout out to Appernetic. It&amp;rsquo;s tough enough having to learn git and then hugo and then firebase and then appernetic comes along.</description>
     </item>

@@ -5,10 +5,7 @@
     <link>https://melakakini.github.io/post/</link>
     <description>Recent content in Posts on Melaka Kini</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>melakakini@hotmail.com (Jensen)</managingEditor>
-    <webMaster>melakakini@hotmail.com (Jensen)</webMaster>
-    <copyright>(c) 2017 Melaka Kini.</copyright>
+    <copyright>© 2017 Melaka Bandaraya Bersejarah</copyright>
     <lastBuildDate>Tue, 23 May 2017 22:12:24 +0000</lastBuildDate>
     
 	<atom:link href="https://melakakini.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -16,10 +13,10 @@
     
     <item>
       <title>themes that work</title>
-      <link>https://melakakini.github.io/2017/05/23/themes-that-work/</link>
+      <link>https://melakakini.github.io/post/themes-that-work/</link>
       <pubDate>Tue, 23 May 2017 22:12:24 +0000</pubDate>
-      <author>melakakini@hotmail.com (Jensen)</author>
-      <guid>https://melakakini.github.io/2017/05/23/themes-that-work/</guid>
+      
+      <guid>https://melakakini.github.io/post/themes-that-work/</guid>
       <description>Thanks to all the hardworking and creative theme makers that post to Hugo.
 ##shoutout thanks to you guys I get to have nice looking site. Thank you for your efforts I get my thoughts out.
 But why?
@@ -28,11 +25,11 @@ Why should anyone crack their heads to provide FREE themes to others? Why spend 
     
     <item>
       <title>firstpost</title>
-      <link>https://melakakini.github.io/2017/04/24/firstpost/</link>
+      <link>https://melakakini.github.io/post/firstpost/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      <author>melakakini@hotmail.com (Jensen)</author>
-      <guid>https://melakakini.github.io/2017/04/24/firstpost/</guid>
-      <description>This is the first post and i have no clue what so ever what&amp;rsquo;s happening. Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen. #update Have just seen the youtube &amp;laquo;silent movie&amp;raquo; style tutorial and published it but nothing is seen yet. WIll come back and test in 15 mins
+      
+      <guid>https://melakakini.github.io/post/firstpost/</guid>
+      <description>This is the first post and i have no clue what so ever what&amp;rsquo;s happening. Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen. #update Have just seen the youtube &amp;ldquo;silent movie&amp;rdquo; style tutorial and published it but nothing is seen yet. WIll come back and test in 15 mins
 Am back and today it&amp;rsquo;s the 28th of April and am not making much progress.</description>
     </item>
     

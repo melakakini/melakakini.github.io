@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://melakakini.github.io/what-a-day/</loc>
+    <lastmod>2017-08-17T08:24:44+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://melakakini.github.io/second-post/</loc>
     <lastmod>2017-05-24T21:23:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://melakakini.github.io/2017/05/23/themes-that-work/</loc>
+    <loc>https://melakakini.github.io/post/themes-that-work/</loc>
     <lastmod>2017-05-23T22:12:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://melakakini.github.io/2017/04/24/firstpost/</loc>
+    <loc>https://melakakini.github.io/post/firstpost/</loc>
     <lastmod>2017-04-24T09:46:12+00:00</lastmod>
   </url>
   
@@ -27,8 +32,13 @@
   </url>
   
   <url>
+    <loc>https://melakakini.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://melakakini.github.io/</loc>
-    <lastmod>2017-05-24T21:23:27+00:00</lastmod>
+    <lastmod>2017-08-17T08:24:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,11 +50,6 @@
   
   <url>
     <loc>https://melakakini.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://melakakini.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
